@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/07c2874e16794d56ab1ff0ac33885d48)](https://www.codacy.com/app/359596415/zixun-wang?utm_source=github.com&utm_medium=referral&utm_content=359596415/zixun-wang&utm_campaign=badger)
-
 You can use the [editor on GitHub](https://github.com/359596415/zixun-wang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
